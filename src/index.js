@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { useHistory, BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { useHistory, HashRouter as Router, Switch, Route } from "react-router-dom";
 import ReactDOM from 'react-dom';
 
 import { createBrowserHistory } from 'history';
@@ -53,7 +53,7 @@ const Root = () => {
 export const RouterRoot = (props) => {
     return (
         <Provider store={store}>
-            <Router basename="/#/Fire-Chat" history={history}>
+            <Router basename="/#/Fire-Chat" /*history={history}*/>
                 {props.children}
             </Router>
         </Provider>
