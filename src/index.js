@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { useHistory, BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ReactDOM from 'react-dom';
 
+import { createBrowserHistory } from 'history';
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
 import { composeWithDevTools } from 'redux-devtools-extension'
@@ -19,6 +20,7 @@ import Spinner from '../src/component/spinner/Spinner'
 import './index.scss'
 
 const store = createStore(rootReducer, composeWithDevTools());
+const history = createBrowserHistory();
 
 const Root = () => {
     let history = useHistory()
@@ -51,7 +53,7 @@ const Root = () => {
 export const RouterRoot = (props) => {
     return (
         <Provider store={store}>
-            <Router basename="/#/Fire-Chat">
+            <Router basename="/#/Fire-Chat" history={history}>
                 {props.children}
             </Router>
         </Provider>
