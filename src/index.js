@@ -2,10 +2,9 @@ import React, { useEffect } from 'react';
 import { useHistory, HashRouter as Router, Switch, Route } from "react-router-dom";
 import ReactDOM from 'react-dom';
 
-// import { createBrowserHistory } from 'history';
+
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
-import { composeWithDevTools } from 'redux-devtools-extension'
 import { useDispatch, useSelector } from 'react-redux'
 import { setUser, clearUser } from './action'
 
@@ -19,9 +18,7 @@ import rootReducer from './reducers';
 import Spinner from '../src/component/spinner/Spinner'
 import './index.scss'
 
-const store = createStore(rootReducer, composeWithDevTools());
-// const history = createBrowserHistory();
-// history={history}
+const store = createStore(rootReducer);
 const Root = () => {
     let history = useHistory()
     const dispatch = useDispatch();
