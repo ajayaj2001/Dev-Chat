@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Fire-Chat/static/css/main.b068ea03.chunk.css",
-    "main.js": "/Fire-Chat/static/js/main.1228a9e3.chunk.js",
-    "main.js.map": "/Fire-Chat/static/js/main.1228a9e3.chunk.js.map",
+    "main.js": "/Fire-Chat/static/js/main.bd397895.chunk.js",
+    "main.js.map": "/Fire-Chat/static/js/main.bd397895.chunk.js.map",
     "runtime-main.js": "/Fire-Chat/static/js/runtime-main.7b2a837b.js",
     "runtime-main.js.map": "/Fire-Chat/static/js/runtime-main.7b2a837b.js.map",
     "static/css/2.683be2a8.chunk.css": "/Fire-Chat/static/css/2.683be2a8.chunk.css",
-    "static/js/2.9286981e.chunk.js": "/Fire-Chat/static/js/2.9286981e.chunk.js",
-    "static/js/2.9286981e.chunk.js.map": "/Fire-Chat/static/js/2.9286981e.chunk.js.map",
+    "static/js/2.96e73380.chunk.js": "/Fire-Chat/static/js/2.96e73380.chunk.js",
+    "static/js/2.96e73380.chunk.js.map": "/Fire-Chat/static/js/2.96e73380.chunk.js.map",
     "index.html": "/Fire-Chat/index.html",
     "static/css/2.683be2a8.chunk.css.map": "/Fire-Chat/static/css/2.683be2a8.chunk.css.map",
     "static/css/main.b068ea03.chunk.css.map": "/Fire-Chat/static/css/main.b068ea03.chunk.css.map",
-    "static/js/2.9286981e.chunk.js.LICENSE.txt": "/Fire-Chat/static/js/2.9286981e.chunk.js.LICENSE.txt",
+    "static/js/2.96e73380.chunk.js.LICENSE.txt": "/Fire-Chat/static/js/2.96e73380.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/Fire-Chat/static/media/outline-icons.ddae9b1b.woff",
     "static/media/livechat.94e6f7f0.gif": "/Fire-Chat/static/media/livechat.94e6f7f0.gif",
     "static/media/rocket.0177b593.jpg": "/Fire-Chat/static/media/rocket.0177b593.jpg"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.7b2a837b.js",
     "static/css/2.683be2a8.chunk.css",
-    "static/js/2.9286981e.chunk.js",
+    "static/js/2.96e73380.chunk.js",
     "static/css/main.b068ea03.chunk.css",
-    "static/js/main.1228a9e3.chunk.js"
+    "static/js/main.bd397895.chunk.js"
   ]
 }
