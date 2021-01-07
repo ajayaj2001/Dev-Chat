@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fire-Chat/static/css/main.b068ea03.chunk.css",
+    "main.css": "/Fire-Chat/static/css/main.135310cd.chunk.css",
     "main.js": "/Fire-Chat/static/js/main.39b0915a.chunk.js",
     "main.js.map": "/Fire-Chat/static/js/main.39b0915a.chunk.js.map",
     "runtime-main.js": "/Fire-Chat/static/js/runtime-main.7b2a837b.js",
@@ -10,7 +10,7 @@
     "static/js/2.57891908.chunk.js.map": "/Fire-Chat/static/js/2.57891908.chunk.js.map",
     "index.html": "/Fire-Chat/index.html",
     "static/css/2.683be2a8.chunk.css.map": "/Fire-Chat/static/css/2.683be2a8.chunk.css.map",
-    "static/css/main.b068ea03.chunk.css.map": "/Fire-Chat/static/css/main.b068ea03.chunk.css.map",
+    "static/css/main.135310cd.chunk.css.map": "/Fire-Chat/static/css/main.135310cd.chunk.css.map",
     "static/js/2.57891908.chunk.js.LICENSE.txt": "/Fire-Chat/static/js/2.57891908.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/Fire-Chat/static/media/outline-icons.ddae9b1b.woff",
     "static/media/livechat.94e6f7f0.gif": "/Fire-Chat/static/media/livechat.94e6f7f0.gif",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.7b2a837b.js",
     "static/css/2.683be2a8.chunk.css",
     "static/js/2.57891908.chunk.js",
-    "static/css/main.b068ea03.chunk.css",
+    "static/css/main.135310cd.chunk.css",
     "static/js/main.39b0915a.chunk.js"
   ]
 }
