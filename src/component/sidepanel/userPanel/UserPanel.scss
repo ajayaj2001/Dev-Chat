@@ -1,0 +1,33 @@
+.userPanel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 0rem;
+    background-color: white;
+
+    &__userName {
+        width: 80%;
+        border: 3px solid black;
+        border-radius: 4rem;
+        position: relative;
+    }
+    &__float {
+        padding: 1rem 4rem;
+        background-color: white;
+        width: 100%;
+        position: absolute;
+        top: 0rem;
+        left: 0rem;
+        border-radius: 4rem;
+        z-index: 30;
+        box-shadow: 6px 5px 18px 6px rgba(gray, 0.15);
+    }
+}
+.menu-modal {
+    .visible.menu.transition {
+        border-radius: 2rem;
+        div {
+            background-color: gray !important;
+        }
+    }
+}

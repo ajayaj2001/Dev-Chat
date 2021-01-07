@@ -1,0 +1,13 @@
+.messageHeader {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    &__heading {
+        padding-left: 3rem !important;
+    }
+    &__search {
+        position: absolute;
+        bottom: 1rem;
+        right: 11rem;
+    }
+}

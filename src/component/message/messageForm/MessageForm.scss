@@ -1,0 +1,50 @@
+.messageForm {
+    position: relative !important;
+    margin-left: 2rem !important;
+    z-index: 200;
+    background-color: transparent;
+    width: 78%;
+    height: 10%;
+    background-color: white;
+    border-radius: 2rem;
+
+    &__textarea {
+        background-color: inherit !important;
+        position: absolute;
+        border-radius: 30rem;
+        width: 75% !important;
+        height: 5.28rem;
+        left: 5rem;
+        border: none !important;
+        font-size: 1.5rem !important;
+        overflow: hidden;
+    }
+    &__addFile {
+        top: 1.3rem;
+        left: 1rem;
+        border-radius: 10rem;
+        position: absolute;
+        z-index: 300;
+    }
+    &__smile {
+        position: absolute;
+        top: 1.3rem;
+        right: 6.5rem;
+        z-index: 300;
+        background-color: transparent !important;
+    }
+    &__replay {
+        position: absolute;
+        z-index: 300;
+        top: 1.1rem;
+        right: 1rem;
+        border-radius: 3rem !important;
+        padding: 1.2rem 1.5rem 1.2rem 1rem !important;
+    }
+}
+.error {
+    background-color: #f8e6e6ce;
+    border: 1px solid #e0b4b4;
+    color: #9f3a38 !important;
+    box-shadow: none !important;
+}

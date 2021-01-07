@@ -1,0 +1,78 @@
+.messageChatMe {
+    padding-bottom: 3rem;
+    .area {
+        margin-left: 5rem;
+        background-color: rgb(255, 255, 255);
+        width: 50%;
+        border-radius: 3.5rem 3.5rem 3.5rem 0rem;
+        padding: 2.5rem;
+        color: black;
+    }
+    .avatar {
+        margin-top: -1.5rem;
+    }
+    .messageDetails {
+        position: relative;
+        &--name {
+            position: absolute;
+            font-size: 1rem;
+            left: 6rem;
+            color: white;
+            visibility: hidden;
+        }
+        &--time {
+            position: absolute;
+            font-size: 1rem;
+            bottom: 0.6rem;
+            color: rgb(163, 159, 159);
+        }
+    }
+    .image {
+        border-radius: 1rem;
+    }
+}
+.messageChatOther {
+    padding-bottom: 3rem;
+    width: 100%;
+    .area {
+        margin-left: 25rem;
+        background-color: rgb(245, 102, 157);
+        width: 50%;
+        border-radius: 3rem 3rem 0rem 3rem;
+        padding: 2rem;
+        color: white;
+    }
+    .avatar {
+        // position: absolute;
+        display: flex;
+        flex-direction: row-reverse;
+        margin-right: 1rem;
+
+        margin-top: -1.5rem;
+    }
+    .image {
+        border-radius: 1rem;
+    }
+    .messageDetails {
+        &--name {
+            position: absolute;
+            font-size: 1rem;
+            right: 33rem;
+            color: rgb(241, 211, 211);
+            z-index: 20;
+        }
+        &--time {
+            position: absolute;
+            font-size: 1rem;
+            right: 9rem;
+            color: rgb(241, 211, 211);
+            z-index: 20;
+        }
+    }
+}
+.messageDetails--content {
+    display: block;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: right;
+}

@@ -1,0 +1,27 @@
+.loginForm {
+    margin-top: 2rem;
+    padding-left: 4rem;
+    &__input {
+        width: 80%;
+        border-radius: 30%;
+    }
+    &__button {
+        background-color: #ff6161;
+        border: none;
+        padding: 1.5rem;
+        border-radius: 35%;
+        color: white;
+        margin-top: 0.6rem;
+    }
+    &__button:focus {
+        outline: none;
+        background-color: #ffbcbc;
+    }
+    &__link {
+        padding-top: 0.4rem;
+        padding-left: 8rem;
+    }
+    &__input2 {
+        width: 80%;
+    }
+}

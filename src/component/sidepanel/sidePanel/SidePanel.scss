@@ -1,0 +1,14 @@
+.sidePanel {
+    &__channels {
+        margin-top: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+.app__sidePanel {
+    background-color: white;
+    width: 25%;
+    border-radius: 4rem;
+    overflow: hidden;
+}
