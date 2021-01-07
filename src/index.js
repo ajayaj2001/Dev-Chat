@@ -51,7 +51,7 @@ const Root = () => {
 export const RouterRoot = (props) => {
     return (
         <Provider store={store}>
-            <Router>
+            <Router basename="/Fire-Chat/">
                 {props.children}
             </Router>
         </Provider>
