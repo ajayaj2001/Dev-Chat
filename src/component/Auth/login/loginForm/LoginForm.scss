@@ -8,14 +8,15 @@
     &__button {
         background-color: #ff6161;
         border: none;
-        padding: 1.5rem;
+        padding: 1.2rem;
+        font-size: 1.5rem;
         border-radius: 35%;
         color: white;
         margin-top: 0.6rem;
     }
-    &__button:focus {
+    &__button:focus,&__button:hover {
         outline: none;
-        background-color: #ffbcbc;
+        background-color: #fd012b;
     }
     &__link {
         padding-top: 0.4rem;
