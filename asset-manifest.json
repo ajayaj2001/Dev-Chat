@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Dev-Chat/static/css/main.4c16854d.chunk.css",
-    "main.js": "/Dev-Chat/static/js/main.6caf7f6d.chunk.js",
-    "main.js.map": "/Dev-Chat/static/js/main.6caf7f6d.chunk.js.map",
+    "main.css": "/Dev-Chat/static/css/main.2f8d4834.chunk.css",
+    "main.js": "/Dev-Chat/static/js/main.0eb5e35b.chunk.js",
+    "main.js.map": "/Dev-Chat/static/js/main.0eb5e35b.chunk.js.map",
     "runtime-main.js": "/Dev-Chat/static/js/runtime-main.62df5096.js",
     "runtime-main.js.map": "/Dev-Chat/static/js/runtime-main.62df5096.js.map",
-    "static/css/2.545939e0.chunk.css": "/Dev-Chat/static/css/2.545939e0.chunk.css",
-    "static/js/2.2cd06c2c.chunk.js": "/Dev-Chat/static/js/2.2cd06c2c.chunk.js",
-    "static/js/2.2cd06c2c.chunk.js.map": "/Dev-Chat/static/js/2.2cd06c2c.chunk.js.map",
+    "static/css/2.e3e71263.chunk.css": "/Dev-Chat/static/css/2.e3e71263.chunk.css",
+    "static/js/2.236d7fa1.chunk.js": "/Dev-Chat/static/js/2.236d7fa1.chunk.js",
+    "static/js/2.236d7fa1.chunk.js.map": "/Dev-Chat/static/js/2.236d7fa1.chunk.js.map",
     "index.html": "/Dev-Chat/index.html",
-    "static/css/2.545939e0.chunk.css.map": "/Dev-Chat/static/css/2.545939e0.chunk.css.map",
-    "static/css/main.4c16854d.chunk.css.map": "/Dev-Chat/static/css/main.4c16854d.chunk.css.map",
-    "static/js/2.2cd06c2c.chunk.js.LICENSE.txt": "/Dev-Chat/static/js/2.2cd06c2c.chunk.js.LICENSE.txt",
+    "static/css/2.e3e71263.chunk.css.map": "/Dev-Chat/static/css/2.e3e71263.chunk.css.map",
+    "static/css/main.2f8d4834.chunk.css.map": "/Dev-Chat/static/css/main.2f8d4834.chunk.css.map",
+    "static/js/2.236d7fa1.chunk.js.LICENSE.txt": "/Dev-Chat/static/js/2.236d7fa1.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/Dev-Chat/static/media/outline-icons.ddae9b1b.woff",
     "static/media/livechat.94e6f7f0.gif": "/Dev-Chat/static/media/livechat.94e6f7f0.gif",
     "static/media/rocket.0177b593.jpg": "/Dev-Chat/static/media/rocket.0177b593.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.62df5096.js",
-    "static/css/2.545939e0.chunk.css",
-    "static/js/2.2cd06c2c.chunk.js",
-    "static/css/main.4c16854d.chunk.css",
-    "static/js/main.6caf7f6d.chunk.js"
+    "static/css/2.e3e71263.chunk.css",
+    "static/js/2.236d7fa1.chunk.js",
+    "static/css/main.2f8d4834.chunk.css",
+    "static/js/main.0eb5e35b.chunk.js"
   ]
 }
