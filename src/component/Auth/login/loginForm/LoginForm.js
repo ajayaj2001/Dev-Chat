@@ -9,8 +9,8 @@ import firebase from '../../../../firebase';
 const LoginForm = () => {
 
     const [errors, seterrors] = useState("")
-    const [email, setEmail] = useState("");
-    const [password, setPassword] = useState("");
+    const [email, setEmail] = useState("admin@gmail.com");
+    const [password, setPassword] = useState("123456");
     const [loading, setLoading] = useState(false);
 
 
